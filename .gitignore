@@ -1,0 +1,10 @@
+# build
+out/
+*.jar
+
+# uložené hry
+saves/
+
+# IntelliJ
+.idea/
+*.iml
