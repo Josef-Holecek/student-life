@@ -10,6 +10,12 @@ java -jar student-life.jar
 
 Uložené hry se ukládají do složky `saves/` vedle jaru.
 
+## 2D verze v prohlížeči
+
+`web/index.html` je 2D pixelová verze stejné hry – stačí ji otevřít v prohlížeči
+(dvojklik na soubor). Chodí se šipkami nebo WASD, akce klávesou E, věci v batohu
+klávesami 1–5, nápověda H. Na telefonu jsou pod hrou dotyková tlačítka.
+
 ## Překlad
 
 ```
